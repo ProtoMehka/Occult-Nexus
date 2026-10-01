@@ -1,0 +1,11 @@
+{
+  "block.occult_nexus.altar": "제물 제단",
+  "entity.occult_nexus.thrallflesh": "스롤플레시",
+  "entity.occult_nexus.reclaimed_wraith": "되찾은 망령",
+  "item.occult_nexus.thrallflesh_spawn_egg": "스롤플레시 스폰 알",
+  "item.occult_nexus.reclaimed_wraith_spawn_egg": "되찾은 망령 스폰 알",
+  "ritual.occult_nexus.sacrifice.demonic_husband": "악마 남편",
+  "itemGroup.occult_nexus": "오컬트 넥서스",
+  "item.occult_nexus.debug_summon_thrallflesh": "디버그 소환: 스롤플레시",
+  "item.occult_nexus.debug_summon_reclaimed_wraith": "디버그 소환: 되찾은 망령"
+}

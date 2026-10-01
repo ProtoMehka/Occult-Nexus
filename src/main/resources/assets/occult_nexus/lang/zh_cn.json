@@ -1,0 +1,11 @@
+{
+  "block.occult_nexus.altar": "祭祀祭坛",
+  "entity.occult_nexus.thrallflesh": "傀肉",
+  "entity.occult_nexus.reclaimed_wraith": "夺回的幽魂",
+  "item.occult_nexus.thrallflesh_spawn_egg": "傀肉刷怪蛋",
+  "item.occult_nexus.reclaimed_wraith_spawn_egg": "夺回的幽魂刷怪蛋",
+  "ritual.occult_nexus.sacrifice.demonic_husband": "恶魔丈夫",
+  "itemGroup.occult_nexus": "秘术枢纽",
+  "item.occult_nexus.debug_summon_thrallflesh": "调试召唤：傀肉",
+  "item.occult_nexus.debug_summon_reclaimed_wraith": "调试召唤：夺回的幽魂"
+}

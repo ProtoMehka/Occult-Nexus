@@ -1,0 +1,14 @@
+Occult Nexus began as a fork/backport of Ars Ocultas by mystchonky
+(https://github.com/mystchonky/Ars-Ocultas), originally licensed under
+LGPL-3.0-only. Ars Ocultas dropped Forge support after Minecraft 1.20.1
+(NeoForge 1.21.1+ only); Occult Nexus backports the Sacrificial Altar and
+familiar system to Forge 1.20.1 under the redistribution/modification
+rights granted by the LGPL, and republishes under AGPLv3 as permitted by
+the LGPL-3.0/AGPLv3 compatibility clause.
+
+See docs/occult_nexus.md in this workspace for the full porting analysis
+and license reasoning.
+
+The "debug_summon_thrallflesh" item texture is reused from Occultism
+(https://github.com/klikli-dev/occultism, MIT License), originally
+"debug_wand.png".

@@ -1,0 +1,30 @@
+{
+  "type": "occultism:ritual",
+  "ritual_type": "occultism:familiar",
+  "activation_item": {
+    "item": "occultism:book_of_binding_bound_djinni"
+  },
+  "pentacle_id": "occultism:possess_djinni",
+  "duration": 60,
+  "entity_to_sacrifice": {
+    "tag": "occult_nexus:thrallflesh_sacrifice",
+    "display_name": "ritual.occult_nexus.sacrifice.demonic_husband"
+  },
+  "entity_to_summon": "occult_nexus:thrallflesh",
+  "ritual_dummy": {
+    "item": "occultism:ritual_dummy/custom_ritual"
+  },
+  "ingredients": [
+    { "item": "goety:cursed_ingot" },
+    { "item": "goety:dark_ingot" },
+    { "item": "goety:grave_dust" },
+    { "item": "ars_nouveau:source_gem" },
+    { "item": "ars_nouveau:sourcestone" },
+    { "item": "minecraft:rotten_flesh" },
+    { "item": "minecraft:chain" },
+    { "item": "minecraft:iron_block" }
+  ],
+  "result": {
+    "item": "occult_nexus:thrallflesh_spawn_egg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "block.occult_nexus.altar": "Жертвенный алтарь",
+  "entity.occult_nexus.thrallflesh": "Тралфлеш",
+  "entity.occult_nexus.reclaimed_wraith": "Возвращённый Призрак",
+  "item.occult_nexus.thrallflesh_spawn_egg": "Яйцо призыва Тралфлеша",
+  "item.occult_nexus.reclaimed_wraith_spawn_egg": "Яйцо призыва Возвращённого Призрака",
+  "ritual.occult_nexus.sacrifice.demonic_husband": "Демонический муж",
+  "itemGroup.occult_nexus": "Оккультный Нексус",
+  "item.occult_nexus.debug_summon_thrallflesh": "Отладочный призыв: Тралфлеш",
+  "item.occult_nexus.debug_summon_reclaimed_wraith": "Отладочный призыв: Возвращённый Призрак"
+}

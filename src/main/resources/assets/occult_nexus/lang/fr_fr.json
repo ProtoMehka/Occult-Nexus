@@ -1,0 +1,11 @@
+{
+  "block.occult_nexus.altar": "Autel Sacrificiel",
+  "entity.occult_nexus.thrallflesh": "Thrallflesh",
+  "entity.occult_nexus.reclaimed_wraith": "Spectre Réclamé",
+  "item.occult_nexus.thrallflesh_spawn_egg": "Œuf d'invocation de Thrallflesh",
+  "item.occult_nexus.reclaimed_wraith_spawn_egg": "Œuf d'invocation de Spectre Réclamé",
+  "ritual.occult_nexus.sacrifice.demonic_husband": "Mari démoniaque",
+  "itemGroup.occult_nexus": "Occult Nexus",
+  "item.occult_nexus.debug_summon_thrallflesh": "Invocation Debug : Thrallflesh",
+  "item.occult_nexus.debug_summon_reclaimed_wraith": "Invocation Debug : Spectre Réclamé"
+}

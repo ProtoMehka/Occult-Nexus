@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_top",
+  "textures": {
+    "side": "occult_nexus:block/altar_side",
+    "top": "occult_nexus:block/altar_top"
+  }
+}

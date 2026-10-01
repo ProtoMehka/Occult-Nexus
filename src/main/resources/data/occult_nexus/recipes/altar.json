@@ -1,0 +1,23 @@
+{
+  "type": "ars_nouveau:enchanting_apparatus",
+  "keepNbtOfReagent": false,
+  "pedestalItems": [
+    { "item": "occultism:silver_ingot" },
+    { "item": "ars_nouveau:drygmy_shard" },
+    { "item": "occultism:silver_ingot" },
+    { "item": "ars_nouveau:sourcestone" },
+    { "item": "occultism:silver_ingot" },
+    { "item": "ars_nouveau:mob_jar" },
+    { "item": "occultism:silver_ingot" },
+    { "item": "ars_nouveau:sourcestone" }
+  ],
+  "reagent": [
+    { "item": "occultism:golden_sacrificial_bowl" },
+    { "item": "goety:empty_soul_jar" }
+  ],
+  "result": {
+    "count": 1,
+    "id": "occult_nexus:altar"
+  },
+  "sourceCost": 5000
+}

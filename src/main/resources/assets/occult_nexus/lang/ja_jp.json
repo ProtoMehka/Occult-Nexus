@@ -1,0 +1,11 @@
+{
+  "block.occult_nexus.altar": "生贄の祭壇",
+  "entity.occult_nexus.thrallflesh": "スロールフレッシュ",
+  "entity.occult_nexus.reclaimed_wraith": "取り戻された亡霊",
+  "item.occult_nexus.thrallflesh_spawn_egg": "スロールフレッシュのスポーンエッグ",
+  "item.occult_nexus.reclaimed_wraith_spawn_egg": "取り戻された亡霊のスポーンエッグ",
+  "ritual.occult_nexus.sacrifice.demonic_husband": "デーモンハズバンド",
+  "itemGroup.occult_nexus": "オカルトネクサス",
+  "item.occult_nexus.debug_summon_thrallflesh": "デバッグ召喚：スロールフレッシュ",
+  "item.occult_nexus.debug_summon_reclaimed_wraith": "デバッグ召喚：取り戻された亡霊"
+}

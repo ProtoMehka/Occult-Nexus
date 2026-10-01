@@ -1,0 +1,11 @@
+{
+  "block.occult_nexus.altar": "Altar de Sacrificio",
+  "entity.occult_nexus.thrallflesh": "Thrallflesh",
+  "entity.occult_nexus.reclaimed_wraith": "Espectro Recuperado",
+  "item.occult_nexus.thrallflesh_spawn_egg": "Huevo de generación de Thrallflesh",
+  "item.occult_nexus.reclaimed_wraith_spawn_egg": "Huevo de generación de Espectro Recuperado",
+  "ritual.occult_nexus.sacrifice.demonic_husband": "Marido demoníaco",
+  "itemGroup.occult_nexus": "Occult Nexus",
+  "item.occult_nexus.debug_summon_thrallflesh": "Invocación de Depuración: Thrallflesh",
+  "item.occult_nexus.debug_summon_reclaimed_wraith": "Invocación de Depuración: Espectro Recuperado"
+}
